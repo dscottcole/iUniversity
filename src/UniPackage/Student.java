@@ -62,6 +62,8 @@ public class Student {
 		jacob.setQualifyingExamMarks(80);
 		jacob.setYearOfEngg(3);
 		jacob.setResidentialStatus('H');
+		System.out.println("Output:");
+		System.out.println("");
 		jacob.getName();
 		jacob.getStudentId();
 		jacob.getQualifyingExamMarks();

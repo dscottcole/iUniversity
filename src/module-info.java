@@ -1,2 +1,2 @@
-module iUniversity {
+module FirstJavaProgram {
 }
